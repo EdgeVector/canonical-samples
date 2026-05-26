@@ -1,0 +1,107 @@
+[
+  {
+    "aggregate_rating": "4.5",
+    "identifier": "brand-uuid-0001",
+    "logo": "https://example.com/logos/brand-1.png",
+    "review": "Excellent quality and customer service",
+    "slogan": "Innovation at its finest"
+  },
+  {
+    "aggregate_rating": "3.8",
+    "identifier": "gtin-5234892384",
+    "logo": "https://example.com/logos/brand-2.svg",
+    "review": "Good products but shipping took longer than expected",
+    "slogan": "Trusted for generations"
+  },
+  {
+    "aggregate_rating": "4.9",
+    "identifier": "brand-id-xyz789",
+    "logo": "https://cdn.example.com/brand-logos/logo-3.jpg",
+    "review": "Outstanding value for money and reliability",
+    "slogan": "Where quality meets affordability"
+  },
+  {
+    "aggregate_rating": "3.2",
+    "identifier": "ean-9876543210",
+    "logo": "https://example.com/media/brand-mark-4.png",
+    "review": "Average performance, needs improvement",
+    "slogan": "Simply the best"
+  },
+  {
+    "aggregate_rating": "4.7",
+    "identifier": "brand-code-alpha-42",
+    "logo": "https://assets.example.com/brands/logo-5.gif",
+    "review": "Highly recommended by professionals",
+    "slogan": "Crafted with precision"
+  },
+  {
+    "aggregate_rating": "4.1",
+    "identifier": "uuid-brand-88234",
+    "logo": "https://example.com/images/brand-6.webp",
+    "review": "Consistent quality across product lines",
+    "slogan": "Excellence in every detail"
+  },
+  {
+    "aggregate_rating": "3.5",
+    "identifier": "bic-784392847",
+    "logo": "https://example.com/branding/logo-7.png",
+    "review": "Decent but has some durability concerns",
+    "slogan": "Your partner in progress"
+  },
+  {
+    "aggregate_rating": "4.6",
+    "identifier": "brand-handle-delta",
+    "logo": "https://cdn2.example.com/logo-8.svg",
+    "review": "Best purchase I made this year",
+    "slogan": "Building tomorrow today"
+  },
+  {
+    "aggregate_rating": "2.9",
+    "identifier": "identifier-code-beta-003",
+    "logo": "https://example.com/logos/brand-9.jpg",
+    "review": "Below expectations, considering alternatives",
+    "slogan": "Setting new standards"
+  },
+  {
+    "aggregate_rating": "4.8",
+    "identifier": "brand-9847-zulu",
+    "logo": "https://static.example.com/brand-10.png",
+    "review": "Superior craftsmanship and attention to detail",
+    "slogan": "Engineered for excellence"
+  },
+  {
+    "aggregate_rating": "3.6",
+    "identifier": "prod-id-7734982",
+    "logo": "https://example.com/assets/brand-11.webp",
+    "review": "Fair quality at reasonable price point",
+    "slogan": "Reliability you can count on"
+  },
+  {
+    "aggregate_rating": "4.4",
+    "identifier": "sku-brand-4928374",
+    "logo": "https://images.example.com/logo-12.svg",
+    "review": "Impressed with customer support team",
+    "slogan": "Leading the way forward"
+  },
+  {
+    "aggregate_rating": "3.3",
+    "identifier": "brand-code-echo-156",
+    "logo": "https://example.com/brand-images/logo-13.png",
+    "review": "Acceptable but not exceptional",
+    "slogan": "Quality through innovation"
+  },
+  {
+    "aggregate_rating": "4.3",
+    "identifier": "identifier-foxtrot-2847",
+    "logo": "https://cdn.example.com/logos/brand-14.jpg",
+    "review": "Solid performer with good warranty",
+    "slogan": "Dedicated to your satisfaction"
+  },
+  {
+    "aggregate_rating": "4.2",
+    "identifier": "brand-sierra-9374",
+    "logo": "https://example.com/media/brand-15.gif",
+    "review": "Great design and functionality combined",
+    "slogan": "Proven excellence since day one"
+  }
+]

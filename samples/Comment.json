@@ -1,0 +1,58 @@
+[
+  {
+    "downvote_count": "3",
+    "identifier": "comment-uuid-001",
+    "parent_item": "question-uuid-542",
+    "shared_content": "https://example.com/image-placeholder-001.jpg",
+    "upvote_count": "47"
+  },
+  {
+    "downvote_count": "0",
+    "identifier": "comment-uuid-003",
+    "parent_item": "question-uuid-701",
+    "shared_content": "https://example.com/video-placeholder-002.mp4",
+    "upvote_count": "156"
+  },
+  {
+    "downvote_count": "2",
+    "identifier": "comment-uuid-005",
+    "parent_item": "answer-uuid-234",
+    "shared_content": "https://example.com/audio-placeholder-003.mp3",
+    "upvote_count": "73"
+  },
+  {
+    "downvote_count": "7",
+    "identifier": "comment-uuid-007",
+    "parent_item": "comment-uuid-003",
+    "shared_content": "https://example.com/document-placeholder-004.pdf",
+    "upvote_count": "21"
+  },
+  {
+    "downvote_count": "4",
+    "identifier": "comment-uuid-009",
+    "parent_item": "question-uuid-932",
+    "shared_content": "https://example.com/image-placeholder-005.png",
+    "upvote_count": "34"
+  },
+  {
+    "downvote_count": "6",
+    "identifier": "comment-uuid-011",
+    "parent_item": "answer-uuid-445",
+    "shared_content": "https://example.com/video-placeholder-006.webm",
+    "upvote_count": "19"
+  },
+  {
+    "downvote_count": "2",
+    "identifier": "comment-uuid-013",
+    "parent_item": "comment-uuid-009",
+    "shared_content": "https://example.com/image-placeholder-007.jpg",
+    "upvote_count": "42"
+  },
+  {
+    "downvote_count": "3",
+    "identifier": "comment-uuid-015",
+    "parent_item": "question-uuid-456",
+    "shared_content": "https://example.com/audio-placeholder-008.wav",
+    "upvote_count": "67"
+  }
+]

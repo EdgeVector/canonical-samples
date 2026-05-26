@@ -1,0 +1,130 @@
+[
+  {
+    "away_team": "Team Alpha",
+    "competitor": "Player-1001",
+    "home_team": "Team Beta",
+    "identifier": "EVENT-2024-001",
+    "referee": "Ref Johnson",
+    "sport": "Basketball"
+  },
+  {
+    "away_team": "Team Gamma",
+    "competitor": "Player-1002",
+    "home_team": "Team Delta",
+    "identifier": "EVENT-2024-002",
+    "referee": "Umpire Smith",
+    "sport": "Baseball"
+  },
+  {
+    "away_team": "Team Epsilon",
+    "competitor": "Player-1003",
+    "home_team": "Team Zeta",
+    "identifier": "EVENT-2024-003",
+    "referee": "Judge Williams",
+    "sport": "Tennis"
+  },
+  {
+    "away_team": "Team Eta",
+    "competitor": "Player-1004",
+    "home_team": "Team Theta",
+    "identifier": "EVENT-2024-004",
+    "referee": "Ref Martinez",
+    "sport": "American Football"
+  },
+  {
+    "away_team": "Team Iota",
+    "competitor": "Player-1005",
+    "home_team": "Team Kappa",
+    "identifier": "EVENT-2024-005",
+    "referee": "Umpire Brown",
+    "sport": "Soccer"
+  },
+  {
+    "away_team": "Team Lambda",
+    "competitor": "Player-1006",
+    "home_team": "Team Mu",
+    "identifier": "EVENT-2024-006",
+    "referee": "Ref Davis",
+    "sport": "Ice Hockey"
+  },
+  {
+    "away_team": "Team Nu",
+    "competitor": "Player-1007",
+    "home_team": "Team Xi",
+    "identifier": "EVENT-2024-007",
+    "referee": "Judge Anderson",
+    "sport": "Boxing"
+  },
+  {
+    "away_team": "Team Omicron",
+    "competitor": "Player-1008",
+    "home_team": "Team Pi",
+    "identifier": "EVENT-2024-008",
+    "referee": "Umpire Taylor",
+    "sport": "Volleyball"
+  },
+  {
+    "away_team": "Team Rho",
+    "competitor": "Player-1009",
+    "home_team": "Team Sigma",
+    "identifier": "EVENT-2024-009",
+    "referee": "Ref Thompson",
+    "sport": "Golf"
+  },
+  {
+    "away_team": "Team Tau",
+    "competitor": "Player-1010",
+    "home_team": "Team Upsilon",
+    "identifier": "EVENT-2024-010",
+    "referee": "Judge Garcia",
+    "sport": "Swimming"
+  },
+  {
+    "away_team": "Team Phi",
+    "competitor": "Player-1011",
+    "home_team": "Team Chi",
+    "identifier": "EVENT-2024-011",
+    "referee": "Umpire Lee",
+    "sport": "Cricket"
+  },
+  {
+    "away_team": "Team Psi",
+    "competitor": "Player-1012",
+    "home_team": "Team Omega",
+    "identifier": "EVENT-2024-012",
+    "referee": "Ref Rodriguez",
+    "sport": "Rugby"
+  },
+  {
+    "away_team": "Team Apex",
+    "competitor": "Player-1013",
+    "home_team": "Team Zenith",
+    "identifier": "EVENT-2024-013",
+    "referee": "Judge Wilson",
+    "sport": "Gymnastics"
+  },
+  {
+    "away_team": "Team Valor",
+    "competitor": "Player-1014",
+    "home_team": "Team Victory",
+    "identifier": "EVENT-2024-014",
+    "referee": "Umpire Moore",
+    "sport": "Badminton"
+  },
+  {
+    "away_team": "Team Summit",
+    "competitor": "Player-1015",
+    "home_team": "Team Peak",
+    "identifier": "EVENT-2024-015",
+    "referee": "Ref Jackson",
+    "sport": "Track and Field"
+  },
+  {
+    "away_team": "Team Horizon",
+    "competitor": "Player-1016",
+    "home_team": "Team Eclipse",
+    "identifier": "EVENT-2024-016",
+    "referee": "Judge White",
+    "sport": "Archery"
+  }
+]

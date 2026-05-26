@@ -1,0 +1,128 @@
+{
+  "generated_at": "2026-05-26T21:17:30.410Z",
+  "generator_model": "claude-haiku-4-5",
+  "snapshot_url": "https://y0q3m6vk75.execute-api.us-west-2.amazonaws.com",
+  "schemas": [
+    {
+      "descriptive_name": "Action",
+      "identity_hash": "05ec97889449bb76a0e6f800fa852b160e4543b15697b198eadbbe96f67fccf4",
+      "row_count": 24,
+      "generated_at": "2026-05-26T21:18:17.392Z"
+    },
+    {
+      "descriptive_name": "Article",
+      "identity_hash": "4c4392a4fd65813a1d9a1d2546a1f6e9609e30b7609f678a607fe37005ad83c0",
+      "row_count": 19,
+      "generated_at": "2026-05-26T21:14:32.007Z"
+    },
+    {
+      "descriptive_name": "Book",
+      "identity_hash": "bc0a4c3ea5df297b93cce9805a08419479d0e67ac6f7e156e181d8a5616eebaf",
+      "row_count": 10,
+      "generated_at": "2026-05-26T21:08:05.095Z"
+    },
+    {
+      "descriptive_name": "Brand",
+      "identity_hash": "b1d82b3173db1e3f2b7e587bee148ca3981f3235e3b7058be4162d8a4fdabd63",
+      "row_count": 15,
+      "generated_at": "2026-05-26T21:11:41.879Z"
+    },
+    {
+      "descriptive_name": "Comment",
+      "identity_hash": "453e93534dab916df0a5fa09bed4ecbb60280c737254a2ad438efa162b81aebc",
+      "row_count": 8,
+      "generated_at": "2026-05-26T21:09:53.109Z"
+    },
+    {
+      "descriptive_name": "ContactPoint",
+      "identity_hash": "e04e0973221ad33fc8d426a0fd0f6986853c686075bff2ed0770f1e254147dd2",
+      "row_count": 21,
+      "generated_at": "2026-05-26T21:10:26.246Z"
+    },
+    {
+      "descriptive_name": "Course",
+      "identity_hash": "62a5ea83fdcfd64e9062768fba4d970ace72e2de5d3baf9c0102ea4ec54ca981",
+      "row_count": 21,
+      "generated_at": "2026-05-26T21:15:10.696Z"
+    },
+    {
+      "descriptive_name": "Dataset",
+      "identity_hash": "87d81877a6799d236c3a45328284bcad3423f1a6d6ddd4b288b56c204f90434a",
+      "row_count": 12,
+      "generated_at": "2026-05-26T21:12:01.515Z"
+    },
+    {
+      "descriptive_name": "Episode",
+      "identity_hash": "d87608671699ce455d5e41a212c90e34f7190abeac6b5c689d046e2487a490b4",
+      "row_count": 22,
+      "generated_at": "2026-05-26T21:12:31.300Z"
+    },
+    {
+      "descriptive_name": "Game",
+      "identity_hash": "9ce5320e3d0fc190fe481505ac69317a77123a18f787917cf218d7b54c46ffdb",
+      "row_count": 16,
+      "generated_at": "2026-05-26T21:12:09.234Z"
+    },
+    {
+      "descriptive_name": "GeoCoordinates",
+      "identity_hash": "65486b4fd7a2f1a9f80a53f86c11c86948328f7e3464ff37b9bdad42cdd69d47",
+      "row_count": 17,
+      "generated_at": "2026-05-26T21:12:17.632Z"
+    },
+    {
+      "descriptive_name": "ImageObject",
+      "identity_hash": "ea37a127e0076188b3a30c729e4fd1221f5cd541db1a0610117a1124ce98584b",
+      "row_count": 15,
+      "generated_at": "2026-05-26T21:15:21.430Z"
+    },
+    {
+      "descriptive_name": "Message",
+      "identity_hash": "ae4100ff51acdf42eccf2ea9712dc2ce935bd1d0551107d901f4da8291f536ee",
+      "row_count": 20,
+      "generated_at": "2026-05-26T21:13:31.260Z"
+    },
+    {
+      "descriptive_name": "Movie",
+      "identity_hash": "b4f4d567a6e9634c9e664f809563cdbb6bfdbb2f88efa6ce2f198472e0b9ecb0",
+      "row_count": 22,
+      "generated_at": "2026-05-26T21:08:21.867Z"
+    },
+    {
+      "descriptive_name": "NewsArticle",
+      "identity_hash": "453a1dd41d7de60f4f8d3c7914f4390756fa0d5bfae3d3cd715f11c7786568b3",
+      "row_count": 16,
+      "generated_at": "2026-05-26T21:11:06.594Z"
+    },
+    {
+      "descriptive_name": "PostalAddress",
+      "identity_hash": "541cf31e8522f20628becf3ac8c7f11763361b0b552e268bdbd96bdc0d9e4d22",
+      "row_count": 18,
+      "generated_at": "2026-05-26T21:15:30.709Z"
+    },
+    {
+      "descriptive_name": "Recipe",
+      "identity_hash": "d6ab1a54bf1ec27923261e13fd90c8c4f4e3fee52ab91c44f8f2246f1a05b42d",
+      "row_count": 21,
+      "generated_at": "2026-05-26T21:17:52.677Z"
+    },
+    {
+      "descriptive_name": "Review",
+      "identity_hash": "70fb70df7f824b7b02593ab8f529700b36e804511a05a3b0cf2e8748c380a2ca",
+      "row_count": 19,
+      "generated_at": "2026-05-26T21:14:52.639Z"
+    },
+    {
+      "descriptive_name": "SportsEvent",
+      "identity_hash": "0143112004926e91d3f71513bea4d219ab436877ed2f59225bf46f94d0d213dc",
+      "row_count": 16,
+      "generated_at": "2026-05-26T21:12:36.277Z"
+    },
+    {
+      "descriptive_name": "VideoObject",
+      "identity_hash": "57f6587e092803b41c38b3f84b936e05acd0893f3cda35ab94b12c1cd2dc520a",
+      "row_count": 20,
+      "generated_at": "2026-05-26T21:10:51.782Z"
+    }
+  ],
+  "snapshot_captured_at": "2026-05-26T21:17:30Z"
+}
