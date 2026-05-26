@@ -1,0 +1,107 @@
+[
+  {
+    "caption": "Product showcase for user-1234's new winter collection",
+    "embedded_text_caption": "50% OFF WINTER SALE",
+    "exif_data": "Camera: Canon EOS 5D, ISO: 400, Aperture: f/2.8, Shutter: 1/500s",
+    "identifier": "img-uuid-a1b2c3d4-e5f6-47g8-h9i0-j1k2l3m4n5o6",
+    "representative_of_page": "true"
+  },
+  {
+    "caption": "Landscape photograph of mountain valley at sunset",
+    "embedded_text_caption": "",
+    "exif_data": "Camera: Nikon D850, ISO: 100, Aperture: f/8, Shutter: 2s, Focal Length: 24mm",
+    "identifier": "photo-2024-001-landscape",
+    "representative_of_page": "false"
+  },
+  {
+    "caption": "Screenshot of dashboard interface for data-analysis-app v2.3",
+    "embedded_text_caption": "Total Users: 15,234 | Active Sessions: 892",
+    "exif_data": "",
+    "identifier": "screenshot-dashboard-ui-20240115",
+    "representative_of_page": "true"
+  },
+  {
+    "caption": "Family reunion gathering at Example Park",
+    "embedded_text_caption": "Smith Family Reunion - June 2024",
+    "exif_data": "Camera: Apple iPhone 15 Pro, ISO: 320, Aperture: f/1.8, Shutter: 1/120s",
+    "identifier": "family-photo-reunion-2024-06",
+    "representative_of_page": "false"
+  },
+  {
+    "caption": "Product mockup: Blue wireless headphones against white background",
+    "embedded_text_caption": "Premium Sound Quality - Available Now",
+    "exif_data": "Camera: Sony A6400, ISO: 200, Aperture: f/5.6, Shutter: 1/125s",
+    "identifier": "product-mockup-headphones-blue-001",
+    "representative_of_page": "true"
+  },
+  {
+    "caption": "Infographic showing quarterly sales metrics comparison",
+    "embedded_text_caption": "Q1: $2.3M | Q2: $2.8M | Q3: $3.1M | Q4: $3.5M",
+    "exif_data": "",
+    "identifier": "infographic-sales-metrics-2024",
+    "representative_of_page": "true"
+  },
+  {
+    "caption": "Street art mural in downtown district zone-5",
+    "embedded_text_caption": "Street Art Festival 2024",
+    "exif_data": "Camera: Fujifilm X-T4, ISO: 250, Aperture: f/7.1, Shutter: 1/200s",
+    "identifier": "street-art-mural-2024-downtown",
+    "representative_of_page": "false"
+  },
+  {
+    "caption": "Technical diagram showing network architecture",
+    "embedded_text_caption": "System Architecture v3.2 - Production Environment",
+    "exif_data": "",
+    "identifier": "tech-diagram-network-v3-2",
+    "representative_of_page": "true"
+  },
+  {
+    "caption": "Recipe card image: homemade pasta preparation steps",
+    "embedded_text_caption": "Classic Carbonara - 30 minutes",
+    "exif_data": "Camera: Olympus OM-D E-M1, ISO: 400, Aperture: f/4, Shutter: 1/100s",
+    "identifier": "recipe-card-carbonara-2024",
+    "representative_of_page": "false"
+  },
+  {
+    "caption": "Before and after comparison: Office renovation project",
+    "embedded_text_caption": "Transformation Complete - See the Difference",
+    "exif_data": "Camera: Panasonic Lumix S1, ISO: 500, Aperture: f/2.8, Shutter: 1/250s",
+    "identifier": "before-after-office-renovation-001",
+    "representative_of_page": "true"
+  },
+  {
+    "caption": "Wildlife photograph: Eagle in flight over forest",
+    "embedded_text_caption": "",
+    "exif_data": "Camera: Canon EOS R5, ISO: 3200, Aperture: f/4, Shutter: 1/2000s, Focal Length: 500mm",
+    "identifier": "wildlife-eagle-flight-2024",
+    "representative_of_page": "false"
+  },
+  {
+    "caption": "Educational infographic: Water cycle explained for students",
+    "embedded_text_caption": "Evaporation → Condensation → Precipitation",
+    "exif_data": "",
+    "identifier": "educational-infographic-water-cycle",
+    "representative_of_page": "true"
+  },
+  {
+    "caption": "Food photography: Gourmet plated dessert with garnish",
+    "embedded_text_caption": "Chef's Special - Chocolate Lavender Torte",
+    "exif_data": "Camera: Nikon Z9, ISO: 640, Aperture: f/2.0, Shutter: 1/500s",
+    "identifier": "food-photo-dessert-gourmet-2024",
+    "representative_of_page": "false"
+  },
+  {
+    "caption": "Website hero image: Team collaboration in modern office",
+    "embedded_text_caption": "Building Tomorrow's Solutions Today",
+    "exif_data": "Camera: Hasselblad CFV II 50C, ISO: 100, Aperture: f/8, Shutter: 1/125s",
+    "identifier": "hero-image-team-collaboration-v1",
+    "representative_of_page": "true"
+  },
+  {
+    "caption": "Vintage travel poster style illustration of beach destination",
+    "embedded_text_caption": "Visit Paradise Beach - Est. 2024",
+    "exif_data": "",
+    "identifier": "vintage-travel-poster-beach-2024",
+    "representative_of_page": "false"
+  }
+]

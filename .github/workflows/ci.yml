@@ -1,0 +1,30 @@
+name: ci
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  ci-required:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+      - name: install tool deps
+        working-directory: tools
+        run: bun install --frozen-lockfile || bun install
+      - name: validate samples
+        env:
+          EXEMEM_DEV_API_KEY: ${{ secrets.EXEMEM_DEV_API_KEY }}
+        run: |
+          if [ -z "${EXEMEM_DEV_API_KEY}" ]; then
+            echo "::warning::EXEMEM_DEV_API_KEY secret not configured — skipping live snapshot validation"
+            echo "Repository owners: add the secret in Settings → Secrets and variables → Actions"
+            exit 0
+          fi
+          bun tools/validate.ts samples/

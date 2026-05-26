@@ -1,0 +1,130 @@
+[
+  {
+    "dateline": "New York, N.Y.",
+    "identifier": "article-uuid-2024-001",
+    "print_column": "3",
+    "print_edition": "Morning Edition",
+    "print_page": "A1",
+    "print_section": "National"
+  },
+  {
+    "dateline": "Washington, D.C.",
+    "identifier": "article-uuid-2024-002",
+    "print_column": "1",
+    "print_edition": "Evening Edition",
+    "print_page": "A8",
+    "print_section": "Politics"
+  },
+  {
+    "dateline": "Chicago, Ill.",
+    "identifier": "article-uuid-2024-003",
+    "print_column": "2",
+    "print_edition": "Morning Edition",
+    "print_page": "B5",
+    "print_section": "Business"
+  },
+  {
+    "dateline": "Los Angeles, Calif.",
+    "identifier": "article-uuid-2024-004",
+    "print_column": "4",
+    "print_edition": "Weekend Edition",
+    "print_page": "C12",
+    "print_section": "Entertainment"
+  },
+  {
+    "dateline": "Boston, Mass.",
+    "identifier": "article-uuid-2024-005",
+    "print_column": "1",
+    "print_edition": "Morning Edition",
+    "print_page": "D3",
+    "print_section": "Sports"
+  },
+  {
+    "dateline": "Denver, Colo.",
+    "identifier": "article-uuid-2024-006",
+    "print_column": "5",
+    "print_edition": "Evening Edition",
+    "print_page": "A15",
+    "print_section": "World"
+  },
+  {
+    "dateline": "Miami, Fla.",
+    "identifier": "article-uuid-2024-007",
+    "print_column": "2",
+    "print_edition": "Sunday Edition",
+    "print_page": "E7",
+    "print_section": "Science"
+  },
+  {
+    "dateline": "Seattle, Wash.",
+    "identifier": "article-uuid-2024-008",
+    "print_column": "3",
+    "print_edition": "Morning Edition",
+    "print_page": "B10",
+    "print_section": "Technology"
+  },
+  {
+    "dateline": "Phoenix, Ariz.",
+    "identifier": "article-uuid-2024-009",
+    "print_column": "1",
+    "print_edition": "Evening Edition",
+    "print_page": "F2",
+    "print_section": "Lifestyle"
+  },
+  {
+    "dateline": "Dallas, Texas",
+    "identifier": "article-uuid-2024-010",
+    "print_column": "4",
+    "print_edition": "Morning Edition",
+    "print_page": "A22",
+    "print_section": "Local"
+  },
+  {
+    "dateline": "Atlanta, Ga.",
+    "identifier": "article-uuid-2024-011",
+    "print_column": "2",
+    "print_edition": "Weekend Edition",
+    "print_page": "D1",
+    "print_section": "Opinion"
+  },
+  {
+    "dateline": "San Francisco, Calif.",
+    "identifier": "article-uuid-2024-012",
+    "print_column": "3",
+    "print_edition": "Evening Edition",
+    "print_page": "B18",
+    "print_section": "Markets"
+  },
+  {
+    "dateline": "Philadelphia, Pa.",
+    "identifier": "article-uuid-2024-013",
+    "print_column": "5",
+    "print_edition": "Morning Edition",
+    "print_page": "C8",
+    "print_section": "Health"
+  },
+  {
+    "dateline": "Portland, Ore.",
+    "identifier": "article-uuid-2024-014",
+    "print_column": "1",
+    "print_edition": "Sunday Edition",
+    "print_page": "G4",
+    "print_section": "Arts"
+  },
+  {
+    "dateline": "Houston, Texas",
+    "identifier": "article-uuid-2024-015",
+    "print_column": "4",
+    "print_edition": "Evening Edition",
+    "print_page": "A31",
+    "print_section": "Environment"
+  },
+  {
+    "dateline": "Minneapolis, Minn.",
+    "identifier": "article-uuid-2024-016",
+    "print_column": "2",
+    "print_edition": "Morning Edition",
+    "print_page": "E11",
+    "print_section": "Education"
+  }
+]

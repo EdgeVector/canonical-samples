@@ -1,0 +1,92 @@
+[
+  {
+    "abridged": "No",
+    "book_edition": "First Edition",
+    "book_format": "Hardcover",
+    "identifier": "ISBN-978-0-555-0001-1",
+    "illustrator": "Artist Name One",
+    "isbn": "978-0-555-0001-1",
+    "number_of_pages": "342"
+  },
+  {
+    "abridged": "Yes",
+    "book_edition": "Second Edition",
+    "book_format": "Paperback",
+    "identifier": "ISBN-978-0-555-0002-8",
+    "illustrator": "Artist Name Two",
+    "isbn": "978-0-555-0002-8",
+    "number_of_pages": "256"
+  },
+  {
+    "abridged": "No",
+    "book_edition": "Revised Edition",
+    "book_format": "Hardcover",
+    "identifier": "ISBN-978-0-555-0004-2",
+    "illustrator": "Artist Name Three",
+    "isbn": "978-0-555-0004-2",
+    "number_of_pages": "512"
+  },
+  {
+    "abridged": "Yes",
+    "book_edition": "Young Readers Edition",
+    "book_format": "Paperback",
+    "identifier": "ISBN-978-0-555-0005-9",
+    "illustrator": "Artist Name Four",
+    "isbn": "978-0-555-0005-9",
+    "number_of_pages": "180"
+  },
+  {
+    "abridged": "No",
+    "book_edition": "Limited Edition",
+    "book_format": "Leather Bound",
+    "identifier": "ISBN-978-0-555-0007-3",
+    "illustrator": "Artist Name Five",
+    "isbn": "978-0-555-0007-3",
+    "number_of_pages": "480"
+  },
+  {
+    "abridged": "No",
+    "book_edition": "Fourth Edition",
+    "book_format": "Hardcover",
+    "identifier": "ISBN-978-0-555-0009-7",
+    "illustrator": "Artist Name Six",
+    "isbn": "978-0-555-0009-7",
+    "number_of_pages": "576"
+  },
+  {
+    "abridged": "Yes",
+    "book_edition": "Student Edition",
+    "book_format": "Paperback",
+    "identifier": "ISBN-978-0-555-0011-0",
+    "illustrator": "Artist Name Seven",
+    "isbn": "978-0-555-0011-0",
+    "number_of_pages": "320"
+  },
+  {
+    "abridged": "No",
+    "book_edition": "Illustrated Edition",
+    "book_format": "Hardcover",
+    "identifier": "ISBN-978-0-555-0012-7",
+    "illustrator": "Artist Name Eight",
+    "isbn": "978-0-555-0012-7",
+    "number_of_pages": "448"
+  },
+  {
+    "abridged": "Yes",
+    "book_edition": "Compact Edition",
+    "book_format": "Paperback",
+    "identifier": "ISBN-978-0-555-0014-1",
+    "illustrator": "Artist Name Nine",
+    "isbn": "978-0-555-0014-1",
+    "number_of_pages": "208"
+  },
+  {
+    "abridged": "No",
+    "book_edition": "Deluxe Edition",
+    "book_format": "Hardcover",
+    "identifier": "ISBN-978-0-555-0016-5",
+    "illustrator": "Artist Name Ten",
+    "isbn": "978-0-555-0016-5",
+    "number_of_pages": "624"
+  }
+]

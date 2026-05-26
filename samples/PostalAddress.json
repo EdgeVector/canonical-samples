@@ -1,0 +1,182 @@
+[
+  {
+    "address_country": "US",
+    "address_locality": "San Francisco",
+    "address_region": "CA",
+    "extended_address": "Suite 500",
+    "identifier": "addr-001",
+    "post_office_box_number": "",
+    "postal_code": "94105",
+    "street_address": "123 Market Street"
+  },
+  {
+    "address_country": "GB",
+    "address_locality": "London",
+    "address_region": "England",
+    "extended_address": "Apartment 12B",
+    "identifier": "addr-002",
+    "post_office_box_number": "",
+    "postal_code": "SW1A 1AA",
+    "street_address": "456 Oxford Street"
+  },
+  {
+    "address_country": "CA",
+    "address_locality": "Toronto",
+    "address_region": "Ontario",
+    "extended_address": "",
+    "identifier": "addr-003",
+    "post_office_box_number": "PO Box 789",
+    "postal_code": "M5H 2N2",
+    "street_address": "789 King Street West"
+  },
+  {
+    "address_country": "AU",
+    "address_locality": "Sydney",
+    "address_region": "New South Wales",
+    "extended_address": "Level 3",
+    "identifier": "addr-004",
+    "post_office_box_number": "",
+    "postal_code": "2000",
+    "street_address": "321 Pitt Street"
+  },
+  {
+    "address_country": "DE",
+    "address_locality": "Berlin",
+    "address_region": "Berlin",
+    "extended_address": "Hinterhaus",
+    "identifier": "addr-005",
+    "post_office_box_number": "",
+    "postal_code": "10115",
+    "street_address": "654 Unter den Linden"
+  },
+  {
+    "address_country": "FR",
+    "address_locality": "Paris",
+    "address_region": "Île-de-France",
+    "extended_address": "Apt 4A",
+    "identifier": "addr-006",
+    "post_office_box_number": "",
+    "postal_code": "75001",
+    "street_address": "147 Rue de Rivoli"
+  },
+  {
+    "address_country": "JP",
+    "address_locality": "Tokyo",
+    "address_region": "Tokyo",
+    "extended_address": "Building 2",
+    "identifier": "addr-007",
+    "post_office_box_number": "",
+    "postal_code": "100-0005",
+    "street_address": "258 Marunouchi"
+  },
+  {
+    "address_country": "IN",
+    "address_locality": "Mumbai",
+    "address_region": "Maharashtra",
+    "extended_address": "Tower A",
+    "identifier": "addr-008",
+    "post_office_box_number": "PO Box 1234",
+    "postal_code": "400001",
+    "street_address": "369 Marine Drive"
+  },
+  {
+    "address_country": "BR",
+    "address_locality": "São Paulo",
+    "address_region": "São Paulo",
+    "extended_address": "Sala 1001",
+    "identifier": "addr-009",
+    "post_office_box_number": "",
+    "postal_code": "01310-100",
+    "street_address": "741 Avenida Paulista"
+  },
+  {
+    "address_country": "MX",
+    "address_locality": "Mexico City",
+    "address_region": "Mexico City",
+    "extended_address": "",
+    "identifier": "addr-010",
+    "post_office_box_number": "PO Box 555",
+    "postal_code": "06500",
+    "street_address": "852 Paseo de la Reforma"
+  },
+  {
+    "address_country": "SG",
+    "address_locality": "Singapore",
+    "address_region": "Singapore",
+    "extended_address": "Unit 25-01",
+    "identifier": "addr-011",
+    "post_office_box_number": "",
+    "postal_code": "048625",
+    "street_address": "963 Raffles Boulevard"
+  },
+  {
+    "address_country": "NZ",
+    "address_locality": "Auckland",
+    "address_region": "Auckland",
+    "extended_address": "Floor 10",
+    "identifier": "addr-012",
+    "post_office_box_number": "",
+    "postal_code": "1010",
+    "street_address": "147 Queen Street"
+  },
+  {
+    "address_country": "ZA",
+    "address_locality": "Cape Town",
+    "address_region": "Western Cape",
+    "extended_address": "Office 201",
+    "identifier": "addr-013",
+    "post_office_box_number": "PO Box 9999",
+    "postal_code": "8001",
+    "street_address": "258 Long Street"
+  },
+  {
+    "address_country": "SE",
+    "address_locality": "Stockholm",
+    "address_region": "Stockholm",
+    "extended_address": "",
+    "identifier": "addr-014",
+    "post_office_box_number": "",
+    "postal_code": "11434",
+    "street_address": "369 Strandvägen"
+  },
+  {
+    "address_country": "CH",
+    "address_locality": "Zurich",
+    "address_region": "Zurich",
+    "extended_address": "Suite 300",
+    "identifier": "addr-015",
+    "post_office_box_number": "",
+    "postal_code": "8001",
+    "street_address": "741 Bahnhofstrasse"
+  },
+  {
+    "address_country": "NL",
+    "address_locality": "Amsterdam",
+    "address_region": "North Holland",
+    "extended_address": "Building C",
+    "identifier": "addr-016",
+    "post_office_box_number": "",
+    "postal_code": "1012 XA",
+    "street_address": "852 Damrak"
+  },
+  {
+    "address_country": "KR",
+    "address_locality": "Seoul",
+    "address_region": "Seoul",
+    "extended_address": "Room 2205",
+    "identifier": "addr-017",
+    "post_office_box_number": "PO Box 2222",
+    "postal_code": "04399",
+    "street_address": "963 Gangnam-gu"
+  },
+  {
+    "address_country": "US",
+    "address_locality": "New York",
+    "address_region": "NY",
+    "extended_address": "Penthouse",
+    "identifier": "addr-018",
+    "post_office_box_number": "",
+    "postal_code": "10001",
+    "street_address": "147 Fifth Avenue"
+  }
+]

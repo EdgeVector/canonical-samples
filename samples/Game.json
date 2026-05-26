@@ -1,0 +1,130 @@
+[
+  {
+    "character_attribute": "Strength +2",
+    "game_item": "Iron Sword",
+    "game_location": "Dark Forest",
+    "identifier": "char-attr-0001",
+    "number_of_players": "1-4",
+    "quest": "Retrieve the Lost Amulet"
+  },
+  {
+    "character_attribute": "Wisdom 14",
+    "game_item": "Health Potion",
+    "game_location": "Crystal Cavern",
+    "identifier": "char-attr-0002",
+    "number_of_players": "2-6",
+    "quest": "Defeat the Shadow King"
+  },
+  {
+    "character_attribute": "Dexterity Bonus",
+    "game_item": "Leather Armor",
+    "game_location": "Frozen Wasteland",
+    "identifier": "char-attr-0003",
+    "number_of_players": "1",
+    "quest": "Escape the Tower"
+  },
+  {
+    "character_attribute": "Constitution 16",
+    "game_item": "Wooden Shield",
+    "game_location": "Mystic Tower",
+    "identifier": "char-attr-0004",
+    "number_of_players": "3-8",
+    "quest": "Collect Three Ancient Relics"
+  },
+  {
+    "character_attribute": "Intelligence Proficiency",
+    "game_item": "Spellbook",
+    "game_location": "Enchanted Garden",
+    "identifier": "char-attr-0005",
+    "number_of_players": "1-2",
+    "quest": "Master the Arcane Arts"
+  },
+  {
+    "character_attribute": "Charisma +3",
+    "game_item": "Gold Coin",
+    "game_location": "Merchant Harbor",
+    "identifier": "char-attr-0006",
+    "number_of_players": "2-4",
+    "quest": "Negotiate Trade Agreement"
+  },
+  {
+    "character_attribute": "Speed Enhancement",
+    "game_item": "Running Boots",
+    "game_location": "Crimson Desert",
+    "identifier": "char-attr-0007",
+    "number_of_players": "1-3",
+    "quest": "Race Against Time"
+  },
+  {
+    "character_attribute": "Magic Resistance",
+    "game_item": "Enchanted Ring",
+    "game_location": "Sunken Temple",
+    "identifier": "char-attr-0008",
+    "number_of_players": "2-5",
+    "quest": "Purify the Sacred Shrine"
+  },
+  {
+    "character_attribute": "Critical Strike Chance",
+    "game_item": "Diamond Dagger",
+    "game_location": "Shadow Realm",
+    "identifier": "char-attr-0009",
+    "number_of_players": "1",
+    "quest": "Assassinate the Betrayer"
+  },
+  {
+    "character_attribute": "Healing Power +1",
+    "game_item": "Holy Water",
+    "game_location": "Sacred Cathedral",
+    "identifier": "char-attr-0010",
+    "number_of_players": "2-6",
+    "quest": "Save the Corrupted Soul"
+  },
+  {
+    "character_attribute": "Armor Class 15",
+    "game_item": "Plate Mail",
+    "game_location": "Stone Fortress",
+    "identifier": "char-attr-0011",
+    "number_of_players": "3-7",
+    "quest": "Defend the Castle Gate"
+  },
+  {
+    "character_attribute": "Perception Advantage",
+    "game_item": "Spyglass",
+    "game_location": "Tall Mountain Peak",
+    "identifier": "char-attr-0012",
+    "number_of_players": "1-2",
+    "quest": "Locate Hidden Treasure"
+  },
+  {
+    "character_attribute": "Stealth Mastery",
+    "game_item": "Shadow Cloak",
+    "game_location": "Murky Swamp",
+    "identifier": "char-attr-0013",
+    "number_of_players": "1",
+    "quest": "Infiltrate Enemy Camp"
+  },
+  {
+    "character_attribute": "Luck Factor",
+    "game_item": "Lucky Horseshoe",
+    "game_location": "Abandoned Mine",
+    "identifier": "char-attr-0014",
+    "number_of_players": "2-4",
+    "quest": "Find the Philosopher's Stone"
+  },
+  {
+    "character_attribute": "Fire Affinity",
+    "game_item": "Flame Staff",
+    "game_location": "Volcanic Crater",
+    "identifier": "char-attr-0015",
+    "number_of_players": "1-5",
+    "quest": "Awaken the Fire Dragon"
+  },
+  {
+    "character_attribute": "Water Resistance",
+    "game_item": "Breath Apparatus",
+    "game_location": "Underwater Kingdom",
+    "identifier": "char-attr-0016",
+    "number_of_players": "2-3",
+    "quest": "Retrieve Pearl of Eternity"
+  }
+]

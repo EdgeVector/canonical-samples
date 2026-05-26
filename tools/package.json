@@ -1,0 +1,16 @@
+{
+  "name": "canonical-samples-tools",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate": "bun generate.ts",
+    "validate": "bun validate.ts ../samples/"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.40.0"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/node": "latest"
+  }
+}

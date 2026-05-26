@@ -1,0 +1,6 @@
+node_modules/
+*.tsbuildinfo
+.env
+.env.*
+bun.lockb
+/tools/.snapshot-cache.json
