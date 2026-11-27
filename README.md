@@ -1,6 +1,10 @@
 # canonical-samples
 
-LLM-generated sample rows for the FoldDB canonical schema registry.
+Retained sample records generated against the May 2026 schema registry.
+
+The old `/v1/snapshot` service route is retired. The manifest records the
+historical schema identities; it does not establish that those definitions
+are published by today's Schema Service.
 
 This repo is the **data backbone** that `folddb-dev new --from-prod`
 fetches from when scaffolding a new fold node project. It carries:
@@ -14,10 +18,13 @@ fetches from when scaffolding a new fold node project. It carries:
   snapshot, drives an LLM to author rows per schema, validates each
   row's shape against `field_types`, and writes both the per-schema
   file and the manifest.
-- `tools/validate.ts` — pure shape validator. Reused by CI and by the
-  generator's post-generation check. Type-only — not a semantic
-  validator.
-- `.github/workflows/ci.yml` — runs `tools/validate.ts` on every PR.
+- `tools/validate-format.py` — checks JSON syntax, duplicate fields, manifest
+  identities, record counts and complete sample-file membership.
+- `.github/workflows/ci.yml` — requires that format check on PRs, main pushes,
+  merge groups and manual runs, without a service credential or a skipped
+  validation step.
+- `tools/generate.ts` and `tools/validate.ts` — historical tools for the retired
+  snapshot API. They are not the current CI procedure.
 
 The samples are LLM-generated and contain **no real user data**. They
 exist so a developer running `folddb-dev new --from-prod` gets a
@@ -46,19 +53,21 @@ has ~956 schemas total; broadening coverage is on-demand and lives in
 follow-up PRs. Run `bun tools/generate.ts --help` to see the
 `--schemas <list>` and `--all` flags.
 
-## Regenerating
-
-Regeneration is on-demand. There is no cron, no webhook, no auto-update.
-A human runs `bun tools/generate.ts` and opens a PR.
+## Validation
 
 ```bash
-cd tools && bun install
-EXEMEM_DEV_API_KEY=em_... \
-ANTHROPIC_API_KEY=sk-... \
-  bun generate.ts --schemas Message,Recipe,Book   # subset
-# or
-  bun generate.ts --all                            # everything
+python3 tools/validate-format.py
 ```
+
+This checks the retained data and manifest. Current live schema type validation
+requires current published definitions and is not claimed by this check.
+
+## Historical generation
+
+Regeneration is on-demand. There is no cron, no webhook, no auto-update.
+The retained generator targets the retired snapshot API. A future regeneration
+must first bind its inputs to current published schema definitions and update
+the generator. Keep this corpus unchanged until that work is accepted.
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for the full contribution flow.
 
